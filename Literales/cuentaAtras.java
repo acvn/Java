@@ -6,5 +6,6 @@ public class cuentaAtras {
     System.out.println(3);
     System.out.println(2);
     System.out.println(1);
+    // En sí no es del todo una cuenta atrás, solamente te imprime los valores de golpe, pero es para ir aprendiendo a imprimir valores por pantalla.
   }
 }
