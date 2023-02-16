@@ -11,7 +11,7 @@ public class ordenarArray {
         // Es importante recordar que un array va de la posición 0 a la n-1 [0, n-1]
 
 
-        // Definimos el array, en este caos llamado array con la longitud que nos dieron.
+        // Definimos el array, en este caso llamado array con la longitud que nos dieron.
         int[] array = new int[longitudArray];
 
         System.out.println("Dime los valores que hay dentro del array: ");
