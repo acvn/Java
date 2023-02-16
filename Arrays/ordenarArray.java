@@ -41,7 +41,7 @@ public class ordenarArray {
             }
         }
 
-        // Para poder imprimir por pantalla el array de forma ordenada hacemos un bucle:
+        // Imprimimos el resultado con un bucle.
         for (int i = 0 ; i < longitudArray ; i++) {
             System.out.print(array[i] + " ");
         }
