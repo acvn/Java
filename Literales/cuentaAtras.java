@@ -1,0 +1,10 @@
+// Escribe un programa que imprima los números de 5 al 1. Cada número tiene que estar en una nueva línea.
+public class cuentaAtras {
+  public static void main(String[] args) {
+    System.out.println(5);
+    System.out.println(4);
+    System.out.println(3);
+    System.out.println(2);
+    System.out.println(1);
+  }
+}
