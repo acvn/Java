@@ -1,4 +1,4 @@
-// EEjemplo simple de cómo solicitar al usuario los valores de una matriz y luego imprimir los valores de la matriz en la consola.
+// Ejemplo simple de cómo solicitar al usuario los valores de una matriz y luego imprimir los valores de la matriz en la consola.
 import java.util.Scanner; // Importamos el Scanner
 public class imprimeMatriz {
     public static void main(String[] args) {
