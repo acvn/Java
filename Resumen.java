@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.util.Locale;
 import java.util.Arrays;
 
-public class resumen {
+public class Resumen {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     // comentario
