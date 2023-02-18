@@ -4,7 +4,7 @@ Aquí podrás aprender Java!
 - Literales
 - Operadores
   - Aritméticos
-  - Lógcos
+  - Lógicos
 - Arrays
 - Matrices
 
