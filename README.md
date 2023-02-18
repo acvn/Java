@@ -10,4 +10,4 @@ Aquí podrás aprender Java!
 - Arrays
 - Matrices
 
-[Resumen](https://github.com/5ssz/Java/blob/main/Resumen.java)
+[Resumen](https://5ssz.github.io/Java/Resumen)
