@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class caracteresPalabra {
+public class CaracteresPalabra {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
     // Pedimos al usuario escribir una palabra.
