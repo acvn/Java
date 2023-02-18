@@ -1,9 +1,10 @@
 # Java
 Aquí podrás aprender Java!
 
-> Literales
-
-> Arrays
-
-> Matrices
+- Literales
+- Operadores
+  - Aritméticos
+  - Lógcos
+- Arrays
+- Matrices
 
