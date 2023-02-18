@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class ordenarArray {
+public class OrdenarArray {
     public static void main(String[] args) {
         // Definimos el Scanner.
         Scanner scanner = new Scanner(System.in);
