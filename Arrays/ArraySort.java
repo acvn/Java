@@ -1,6 +1,6 @@
 import java.util.Scanner;
 import java.util.Arrays;
-public class arraySort {
+public class ArraySort {
     public static void main(String[] args) {
         // Definimos el Scanner.
         Scanner scanner = new Scanner(System.in);
