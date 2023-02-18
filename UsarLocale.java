@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Locale;
 
-public class usarLocale {
+public class UsarLocale {
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in); // Es útil para leer y analizar la entrada de un usuario en el programa.
     scanner.useLocale(Locale.ENGLISH); // Establecemos la configuración regional en inglés. 
