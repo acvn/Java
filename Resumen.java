@@ -8,11 +8,20 @@ public class Resumen {
     // comentario
     
     /* comentario
-    en varias lineas*/
+    en varias líneas*/
     
     int numeroEntero = 1;
-    float numeroDecimal = 1.5f;
+    // Para números con muchos ceros, podemos usar guiones bajos para mejorar su legibilidad.
+    int unMillon = 1_000_000; // Esto sería lo mismo que poner: int unMillon 1000000
+    
+    
+    float numeroDecimal = 1.5f; // Expresaremos decimales poniendo el punto y una f al final.
+    
+    float otroDecimal = 5; // Si el decimal de un número es 0, no hace falta poner el . y la f final. 
+    // Es decir, 100.0f es lo mismo que 100
+    
     boolean logica = true;
+    
     char unCaracter = 'a';
     
     String palabra = "Hola";
