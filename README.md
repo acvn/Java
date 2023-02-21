@@ -11,5 +11,6 @@ Aquí podrás aprender Java!
 - Bucles
 - Arrays
 - Matrices
+- Metodos
 
 [Resumen](https://5ssz.github.io/Java/Resumen)
