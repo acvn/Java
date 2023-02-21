@@ -12,3 +12,5 @@ public class CaracteresPalabra {
     System.out.println(palabra + " tiene " + totalCaracteres + " caracteres.");
   }
 }
+
+// length() cuenta todos los caracteres de la cadena, incluyendo espacios en blanco y caracteres especiales como comillas o paréntesis.
