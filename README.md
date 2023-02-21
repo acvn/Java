@@ -12,6 +12,7 @@ Aquí podrás aprender Java!
 - Arrays
 - Matrices
 - Metodos
+  - [Resumen](https://5ssz.github.io/Java/Metodos/Resumen)
 
 [Resumen](https://5ssz.github.io/Java/Resumen)
 [5ssz](https://5ssz.github.io)
